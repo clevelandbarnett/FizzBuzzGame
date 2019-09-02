@@ -13,6 +13,7 @@ for number in range(1,101):
         print("Buzz")
     else:
         print(number)
-        
+
 #Hashes are good for commenting out things that are short
-        
+
+#This is another comment added using Atom text editor
